@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Cap-N-Can-3/static/css/main.f855e6bc.css",
-    "main.js": "/Cap-N-Can-3/static/js/main.0f5f3ad3.js",
+    "main.css": "/Cap-N-Can-3/static/css/main.691e1baf.css",
+    "main.js": "/Cap-N-Can-3/static/js/main.14315de7.js",
     "static/js/453.ed3810f9.chunk.js": "/Cap-N-Can-3/static/js/453.ed3810f9.chunk.js",
+    "static/media/spray-can-icon.png": "/Cap-N-Can-3/static/media/spray-can-icon.f38efdeeb8bb7cd4f73d.png",
     "static/media/logo.svg": "/Cap-N-Can-3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Cap-N-Can-3/index.html",
-    "main.f855e6bc.css.map": "/Cap-N-Can-3/static/css/main.f855e6bc.css.map",
-    "main.0f5f3ad3.js.map": "/Cap-N-Can-3/static/js/main.0f5f3ad3.js.map",
+    "main.691e1baf.css.map": "/Cap-N-Can-3/static/css/main.691e1baf.css.map",
+    "main.14315de7.js.map": "/Cap-N-Can-3/static/js/main.14315de7.js.map",
     "453.ed3810f9.chunk.js.map": "/Cap-N-Can-3/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0f5f3ad3.js"
+    "static/css/main.691e1baf.css",
+    "static/js/main.14315de7.js"
   ]
 }
